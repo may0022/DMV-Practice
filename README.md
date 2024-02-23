@@ -1,7 +1,7 @@
 # [DMV Practice]([https://may0022.github.io/DMV-Practice/])
  A practice exam for any possible questions on the DMV exam for my brother
  
- Update 02-15-24: He got his permit!! 
+ _Update 02-15-24: He got his permit!!_ 
 
 ## NC Driving Exam Prep
 
@@ -38,6 +38,7 @@ const questions = [{
     },"
 ```
 >_also mixed up questions and shuffled answers around so they wouldn't be memorized by placement_
+
 >**Question Shuffling**
 ```javascript
 function shuffleQuestions() {
@@ -57,6 +58,7 @@ questions.forEach(question => {
   }
 ```
 >_said later function_
+
 >**Question Shown**
 ```javascript
 function showQuestion(){
@@ -79,6 +81,7 @@ function showQuestion(){
 ```
 
 ## Afterthoughts
+
 ### Can this be optimized?
 Yes... probably?
 
